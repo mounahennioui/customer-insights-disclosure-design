@@ -4,7 +4,7 @@ Exploratory customer-review analysis of ChatGPT and BRITA, with proposed A/B exp
 
 An independent portfolio project connecting customer-review analysis with communication design and proposed online A/B experiments.
 
-**Status:** Exploratory review analysis and research mock-ups completed. Experiments proposed, not conducted. Source verification and implementation details remain to be finalised.
+**Status:** Exploratory review analysis and research mock-ups completed. The researcher checked the sampled review texts and ratings against their source pages. Experiments are proposed, not conducted; implementation details remain to be finalised.
 
 ## Project question
 
@@ -24,7 +24,7 @@ The working sample contains 20 public reviews:
 - 10 reviews explicitly referring to paid ChatGPT use, collected from Trustpilot.
 - 10 reviews concerning a BRITA Marella jug, collected from a B&Q product-review page.
 
-The collection rule was newest-first eligible written reviews. Exact chronology, review-to-page matching and product variants require final verification.
+Reviews were collected newest-first among eligible written reviews. The researcher checked the review texts and ratings against the linked sources and confirmed the BRITA reviews appeared on the selected product listing. Relative review dates are retained as displayed.
 
 Each review was documented and coded for:
 
@@ -142,13 +142,15 @@ The proposed primary analysis estimates the difference in mean comprehension sco
 
 No participants have been recruited and no experimental results are available.
 
+
 ## Research materials
 
-- **Analysis workbook:** review records, coding, themes, insights and the final experiment plan.
-- **ChatGPT_AB_English.pptx:** two editable subscription mock-ups.
-- **BRITA_AB_Canva.pptx:** two editable filter-jug mock-ups.
+- [Analysis workbook](Customer_Review_Task.xlsx): review records, coding, themes, insights and proposed experiment plans.
+- [ChatGPT A/B panels](Ongoing_Use_Information_Test_chatgpt.pdf): two subscription-page research mock-ups.
+- [BRITA A/B panels](Ongoing_Use_info_BRITA.pdf): two filter-jug research mock-ups.
 
-The presentations are independent research materials, not official brand pages. Source information appears in their speaker notes.
+The PDFs are independent research materials, not official brand pages. Product-information sources are documented in the workbook and listed below.
+
 
 ## Sources and commercial information
 
